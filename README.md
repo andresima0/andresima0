@@ -1,16 +1,29 @@
-### Hi there 👋
+<h1 align="left" >Hello everyone, I'm Andre Simao!</h1>
 
-<!--
-**andresima0/andresima0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>⚡ I'm a Brazilian IT student</p>
+<p>⚡ I'm starting on GitHub now...</p>
 
-Here are some ideas to get you started:
+##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>In what I have knowledge:</p>
+<div>
+<img align="center" alt="alms-c" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+<img align="center" alt="alms-mysql" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+<img align="center" alt="alms-java" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+<img align="center" alt="alms-mysql" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  
+<!--future: <img height="150em" src="https://github-readme-stats.vercel.app/api?username=andresima0&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/> -->
+  
+<img align="right" width="" height="180" hspace="50" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresima0&layout=compact&langs_count=16&theme=dark"/>
+</div>
+
+##
+     
+<p>Contact:</p>
+<div>
+<a href="https://www.linkedin.com/in/andre-simao-254692230/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin" target="_blank"></a>
+</div>
+  
+##
+  
+<h2>That's all for now...</h2>
