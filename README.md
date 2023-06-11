@@ -7,10 +7,10 @@
 
 <p>In what I have knowledge:</p>
 <div>
-<img align="center" alt="alms-c" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-<img align="center" alt="alms-mysql" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-<img align="center" alt="alms-java" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-<img align="center" alt="alms-mysql" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+<img align="center" alt="alms-c" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+<img align="center" alt="alms-mysql" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+<img align="center" alt="alms-java" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+<img align="center" alt="alms-mysql" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   
 <!--future: <img height="150em" src="https://github-readme-stats.vercel.app/api?username=andresima0&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/> -->
   
