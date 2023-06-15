@@ -1,7 +1,7 @@
 <h1 align="left" >Hello everyone, I'm Andre Simao!</h1>
 
-<p>⚡ I'm a Brazilian IT student</p>
-<p>⚡ I'm starting on GitHub now...</p>
+<h2>⚡ I'm a Brazilian IT student</h2>
+<h2>⚡ I'm starting on GitHub now...</h2>
 
 ##
 
