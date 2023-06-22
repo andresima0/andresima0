@@ -5,7 +5,7 @@
 
 ##
 
-<p>In what I have knowledge:</p>
+`In what I have knowledge:`
 
 <div>
 <div style="display: inline_block"><br>
@@ -23,7 +23,7 @@
 
 ##
      
-<p>Contact:</p>
+`Contact:`
 <div>
 <a href="https://www.linkedin.com/in/andre-simao-254692230/"  target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
