@@ -1,9 +1,9 @@
-<h1 align="left" >Hello everyone, I'm Andre Simao!</h1>
+<h1 align="left" >Hello everyone, I'm Andre Simao!  
+  <a href="https://www.linkedin.com/in/andre-simao-254692230/ "target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="100px">  
+</h1> 
 
-<p>⚡ I'm a Brazilian IT student</p>
-<p>⚡ I'm starting on GitHub now...</p>
-
-##
+<h3>⚡ I'm a Brazilian IT student, and I'm starting on GitHub now...</h3>
 
 `In what I have knowledge:`
 
@@ -23,14 +23,3 @@
   <img height="180em" hspace= "5" src="https://github-readme-stats.vercel.app/api?username=andresima0&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" hspace= "5" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresima0&layout=compact&langs_count=16&theme=dark"/>
 </div>
-
-##     
-`Contact:`
-<div>
-  <a href="https://www.linkedin.com/in/andre-simao-254692230/ "target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="150px">  
-  </a> 
-</div>
-  
-##  
-<h2>That's all for now...</h2>
