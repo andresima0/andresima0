@@ -1,7 +1,7 @@
 <h1 align="left" >Hello everyone, I'm Andre Simao!  
   <a href="https://www.linkedin.com/in/andre-simao-254692230/ "target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="80">  
-    <img src="https://komarev.com/ghpvc/?username=andresima0&label=Profile%20views&color=0e75b6&style=flat" alt="andresima0views"/>
+    <img src="https://komarev.com/ghpvc/?username=andresima0&label=Profile%20views" alt="andresima0views"/>
 </h1> 
 
 <h3>⚡ I'm a Brazilian IT student, and I'm starting on GitHub now...</h3>
