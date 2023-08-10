@@ -5,7 +5,7 @@
 
 <h3>⚡ I'm a Brazilian IT student, and I'm starting on GitHub. Here are some of my skills...</h3>
 
-<div>
+<div align="center">
 <div style="display: inline_block"><br>
   <img align="center" alt="alms-c" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="alms-mysql"  width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
@@ -27,6 +27,6 @@
   <img align="center" alt="cyberpunkDivers" width="840" src="https://github.com/andresima0/andresima0/assets/111400782/400ed31b-0dd1-4ff1-8700-d754c48b3719">
 </div>
 
-<div text align="center">
+<div align="center">
   <h3> Shall we dive deep into knowledge?</h3>
 </div>
