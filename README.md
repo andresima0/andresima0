@@ -28,5 +28,5 @@
 </div>
 
 <div align="center">
-  <h3> Shall we dive deep into knowledge?</h3>
+  <h3><i>Shall we dive deep into knowledge?</i></h3>
 </div>
