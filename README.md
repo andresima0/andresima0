@@ -22,7 +22,11 @@
   <img height="180" hspace= "5" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresima0&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
+#
 <div>
-  <h3> Shall we dive deep into knowledge?</h3>
   <img align="center" alt="cyberpunkDivers" width="840" src="https://github.com/andresima0/andresima0/assets/111400782/400ed31b-0dd1-4ff1-8700-d754c48b3719">
+</div>
+
+<div text align="center">
+  <h3> Shall we dive deep into knowledge?</h3>
 </div>
