@@ -3,7 +3,7 @@
     <img src="https://komarev.com/ghpvc/?username=andresima0&label=Profile%20views" alt="andresima0views"/>
 </h1> 
 
-<h3>⚡ I'm a Brazilian IT student, and I'm starting on GitHub. Here are some of my skills...</h3>
+<h3>⚡I'm a Brazilian IT student, and I'm starting on GitHub. Here are some of the topics I'm interested in...</h3>
 
 <div align="center">
 <div style="display: inline_block"><br>
