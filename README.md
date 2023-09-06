@@ -3,7 +3,7 @@
     <img src="https://komarev.com/ghpvc/?username=andresima0&label=Profile%20views" alt="andresima0views"/>
 </h1> 
 
-<img src="https://readme-typing-svg.demolab.com/?lines=I'm%20Brazilian%20IT%20student;I'm%20Starting%20on%20GitHub;Some%20topics%20I'm%20interested%20in:&font=Fira%20Code&Left=true&width=500&height=25&color=FFFF00&vCenter=true&pause=500&size=20"/>
+<img src="https://readme-typing-svg.demolab.com/?lines=I'm%20Brazilian%20IT%20student;I'm%20Starting%20on%20GitHub;Some%20topics%20I'm%20interested%20in:&font=Fira%20Code&Left=true&width=500&height=25&color=00FF00&vCenter=true&pause=500&size=20"/>
 
 <div align="center">
 <div style="display: inline_block"><br>
