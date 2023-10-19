@@ -19,13 +19,13 @@
 #
 <div align="center">
 <a href="https://github.com/andresima0">
-  <img height="180em" hspace= "5" src="https://github-readme-stats.vercel.app/api?username=andresima0&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180" hspace= "5" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresima0&layout=compact&langs_count=16&theme=dark"/>
+  <img height="170" hspace= "5" src="https://github-readme-stats.vercel.app/api?username=andresima0&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="170" hspace= "5" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresima0&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
 #
 <div align="center">
-  <img align="center" alt="cyberpunkDivers" width="840" src="https://github.com/andresima0/andresima0/assets/111400782/400ed31b-0dd1-4ff1-8700-d754c48b3719">
+  <img align="center" alt="cyberpunkDivers" height= "200" width="770" src="https://github.com/andresima0/andresima0/assets/111400782/400ed31b-0dd1-4ff1-8700-d754c48b3719">
 </div>
 
 ###
