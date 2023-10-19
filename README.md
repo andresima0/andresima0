@@ -29,6 +29,7 @@
   <img align="center" alt="cyberpunkDivers" width="840" src="https://github.com/andresima0/andresima0/assets/111400782/400ed31b-0dd1-4ff1-8700-d754c48b3719">
 </div>
 
+###
 <div text align="center">
-  <h3> Shall we dive deep into knowledge?</h3>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Shall%20we%20dive%20deep%20into%20knowledge?&font=Fira%20Code&Left=true&width=500&height=25&color=800080&vCenter=true&pause=5000&size=20"/>
 </div>
