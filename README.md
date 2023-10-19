@@ -25,7 +25,7 @@
 
 #
 <div align="center">
-  <img align="center" alt="cyberpunkDivers" height= "200" width="770" src="https://github.com/andresima0/andresima0/assets/111400782/400ed31b-0dd1-4ff1-8700-d754c48b3719">
+  <img align="center" alt="cyberpunkDivers" width="770" src="https://github.com/andresima0/andresima0/assets/111400782/400ed31b-0dd1-4ff1-8700-d754c48b3719">
 </div>
 
 ###
