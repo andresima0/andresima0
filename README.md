@@ -1,9 +1,11 @@
-<h1 align="left" >Hello everyone, I'm Andre Simao!  
+<h1 align="center" >Hello everyone, I'm Andre Simao!  
   <a href="https://www.linkedin.com/in/andre-simao-254692230/ "target="_blank">  
     <img src="https://komarev.com/ghpvc/?username=andresima0&label=Profile%20views" alt="andresima0views"/>
 </h1> 
 
+<div align="center">
 <img src="https://readme-typing-svg.demolab.com/?lines=I'm%20Brazilian%20IT%20student;I'm%20Starting%20on%20GitHub%20now;Some%20topics%20I'm%20interested%20in:&font=Fira%20Code&Left=true&width=500&height=25&color=00FF00&vCenter=true&pause=500&size=20"/>
+</div>
 
 <div align="center">
 <div style="display: inline_block"><br>
