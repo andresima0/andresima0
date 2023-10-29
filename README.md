@@ -12,7 +12,6 @@
   <img align="center" alt="alms-c"  width="70" hspace="0" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="alms-cplusplus"  width="70" hspace="0" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="alms-java" width="70" hspace="0" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="alms-kotlin" width="50" hspace="5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="alms-androidstudio" width="70" hspace="5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg">
   <img align="center" alt="alms-vscode" width="60" hspace="5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="alms-mysql" width="70" hspace="5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
