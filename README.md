@@ -16,7 +16,7 @@
   <img align="center" alt="alms-androidstudio" width="50" hspace="5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg">
   <img align="center" alt="espressif" width="50" hspace="5" src="https://github.com/andresima0/andresima0/assets/111400782/e5bb27dd-857c-4278-9dc1-15c49085d943)">
   <img align="center" alt="alms-vscode" width="40" hspace="5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  <img align="center" alt="alms-mysql" width="50" hspace="5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+ 
 </div>
   
 #
