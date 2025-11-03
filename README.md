@@ -30,7 +30,7 @@
 
 #
 <div align="center">
-  <img align="center" alt="cyberpunkDivers" width="770" src="https://github.com/andresima0/andresima0/assets/111400782/400ed31b-0dd1-4ff1-8700-d754c48b3719">
+  <img width="9470" height="2440" alt="Image" src="https://github.com/user-attachments/assets/b01b4e20-c824-496e-99bf-3c782395c7f7" />
 </div>
 
 ###
