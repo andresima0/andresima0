@@ -30,7 +30,7 @@
 
 #
 <div align="center">
-  <img width="9470" height="2440" alt="Image" src="https://github.com/user-attachments/assets/b01b4e20-c824-496e-99bf-3c782395c7f7" />
+  <img width="660" alt="Image" src="https://github.com/user-attachments/assets/10b1e52e-935e-4de6-9f34-6045dd115c78" />
 </div>
 
 ###
