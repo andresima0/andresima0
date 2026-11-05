@@ -16,12 +16,12 @@
   <img align="center" alt="alms-java" width="50" hspace="2" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="alms-kotlin" width="50" hspace="2" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="espressif" width="50" hspace="2" src="https://github.com/andresima0/andresima0/assets/111400782/e5bb27dd-857c-4278-9dc1-15c49085d943">
-  <img align="center" alt="espressif" width="50" hspace="2" src="https://github.com/andresima0/andresima0/blob/main/assets/nordic_icon.png">
+  <img align="center" alt="nordic" width="50" hspace="2" src="https://github.com/andresima0/andresima0/blob/main/assets/nordic_icon.png">
   <img align="center" alt="alms-vscode" width="40" hspace="2" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  <img align="center" alt="alms-androidstudio" width="50" hspace="2" src="https://github.com/andresima0/andresima0/blob/main/assets/platformio_icon.png">
+  <img align="center" alt="platformio" width="50" hspace="2" src="https://github.com/andresima0/andresima0/blob/main/assets/platformio_icon.png">
   <img align="center" alt="alms-rider" width="40" hspace="2" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rider/rider-original.svg">
   <img align="center" alt="alms-androidstudio" width="50" hspace="2" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg">
-  
+  <img align="center" alt="aosp" width="50" hspace="2" src="https://github.com/andresima0/andresima0/blob/main/assets/aosp_icon.png">
   <img align="center" alt="alms-rider" width="40" hspace="5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"> 
 </div>
   
