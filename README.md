@@ -10,16 +10,19 @@
 
 <div align="center">
   <br>
-  <img align="center" alt="alms-c" width="50" hspace="0" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="alms-cplusplus" width="50" hspace="0" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="alms-csharp" width="50" hspace="0" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="alms-java" width="50" hspace="0" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="alms-kotlin" width="50" hspace="0" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
-  <img align="center" alt="alms-androidstudio" width="50" hspace="5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg">
-  <img align="center" alt="espressif" width="50" hspace="5" src="https://github.com/andresima0/andresima0/assets/111400782/e5bb27dd-857c-4278-9dc1-15c49085d943">
-  <img align="center" alt="alms-vscode" width="40" hspace="5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  <img align="center" alt="alms-rider" width="40" hspace="5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rider/rider-original.svg">
-  <img align="center" alt="alms-rider" width="40" hspace="5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <img align="center" alt="alms-c" width="40" hspace="2" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="alms-cplusplus" width="50" hspace="2" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="alms-csharp" width="50" hspace="2" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="alms-java" width="50" hspace="2" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="alms-kotlin" width="50" hspace="2" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
+  <img align="center" alt="espressif" width="50" hspace="2" src="https://github.com/andresima0/andresima0/assets/111400782/e5bb27dd-857c-4278-9dc1-15c49085d943">
+  <img align="center" alt="espressif" width="50" hspace="2" src="https://github.com/andresima0/andresima0/blob/main/assets/nordic_icon.png">
+  <img align="center" alt="alms-vscode" width="40" hspace="2" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+  <img align="center" alt="alms-androidstudio" width="50" hspace="2" src="https://github.com/andresima0/andresima0/blob/main/assets/platformio_icon.png">
+  <img align="center" alt="alms-rider" width="40" hspace="2" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rider/rider-original.svg">
+  <img align="center" alt="alms-androidstudio" width="50" hspace="2" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg">
+  
+  <img align="center" alt="alms-rider" width="40" hspace="5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"> 
 </div>
   
 #
