@@ -1,39 +1,42 @@
-<h1 align="center" >Hello everyone, I'm Andre Simao!  
-  <a href="https://www.linkedin.com/in/andre-simao-254692230/ "target="_blank">  
+<h1 align="center">Hello everyone, I'm Andre Simao!  
+  <a href="https://www.linkedin.com/in/andre-simao-254692230/" target="_blank">  
     <img src="https://komarev.com/ghpvc/?username=andresima0&label=Profile%20views" alt="andresima0views"/>
+  </a>
 </h1> 
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=I'm%20Brazilian%20IT%20student;I'm%20Starting%20on%20GitHub%20now;Some%20topics%20I'm%20interested%20in:;I'm%20working%20with%20ESP32%20too!&font=Fira%20Code&Left=true&width=500&height=25&color=00FF00&vCenter=true&pause=500&size=20"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=I'm%20Brazilian%20IT%20student;I'm%20Starting%20on%20GitHub%20now;Some%20topics%20I'm%20interested%20in:;I'm%20working%20with%20ESP32%20too!&font=Fira%20Code&Left=true&width=500&height=25&color=00FF00&vCenter=true&pause=500&size=20"/>
 </div>
 
 <div align="center">
-<div style="display: inline_block"><br>
-  <img align="center" alt="alms-c"  width="50" hspace="0" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="alms-cplusplus"  width="50" hspace="0" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="alms-csharp"  width="50" hspace="0" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <br>
+  <img align="center" alt="alms-c" width="50" hspace="0" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="alms-cplusplus" width="50" hspace="0" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="alms-csharp" width="50" hspace="0" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="alms-java" width="50" hspace="0" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="alms-kotlin" width="50" hspace="0" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="alms-androidstudio" width="50" hspace="5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg">
-  <img align="center" alt="espressif" width="50" hspace="5" src="https://github.com/andresima0/andresima0/assets/111400782/e5bb27dd-857c-4278-9dc1-15c49085d943)">
+  <img align="center" alt="espressif" width="50" hspace="5" src="https://github.com/andresima0/andresima0/assets/111400782/e5bb27dd-857c-4278-9dc1-15c49085d943">
   <img align="center" alt="alms-vscode" width="40" hspace="5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="alms-rider" width="40" hspace="5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rider/rider-original.svg">
- 
+  <img align="center" alt="alms-rider" width="40" hspace="5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div>
   
 #
+
 <div align="center">
-<a href="https://github.com/andresima0">
-  <img height="170" hspace= "5" src="https://github-readme-stats.vercel.app/api?username=andresima0&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="170" hspace= "5" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresima0&layout=compact&langs_count=16&theme=dark"/>
+  <img height="165em" src="https://github-stats-extended.vercel.app/api?username=andresima0&show_icons=true&theme=dracula" alt="Estatísticas do GitHub" />
+  <img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=andresima0&layout=compact&theme=dracula" alt="Linguagens mais usadas" />
 </div>
 
 #
+
 <div align="center">
   <img width="660" alt="Image" src="https://github.com/user-attachments/assets/10b1e52e-935e-4de6-9f34-6045dd115c78" />
 </div>
 
 ###
-<div text align="center">
+
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=->%20Shall%20we%20dive%20deep%20into%20knowledge?&font=Fira%20Code&Left=true&width=500&height=25&color=800080&vCenter=true&pause=5000&size=20"/>
 </div>
