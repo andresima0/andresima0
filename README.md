@@ -28,8 +28,8 @@
 #
 
 <div align="center">
-  <img height="165em" src="https://github-stats-extended.vercel.app/api?username=andresima0&show_icons=true&theme=dracula" alt="Estatísticas do GitHub" />
-  <img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=andresima0&layout=compact&theme=dracula" alt="Linguagens mais usadas" />
+  <img height="165em" src="https://github-stats-extended.vercel.app/api?username=andresima0&show_icons=true&theme=dracula"/>
+  <img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=andresima0&layout=compact&theme=dracula"/>
 </div>
 
 #
