@@ -35,7 +35,7 @@
 #
 
 <div align="center">
-  <img width="660" alt="Image" src="https://github.com/user-attachments/assets/10b1e52e-935e-4de6-9f34-6045dd115c78" />
+  <img width="660" alt="Image" src="https://github.com/andresima0/andresima0/blob/main/assets/divers.jpg" />
 </div>
 
 ###
