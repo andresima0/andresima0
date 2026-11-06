@@ -28,8 +28,8 @@
 #
 
 <div align="center">
-  <img height="165em" src="https://github-stats-extended.vercel.app/api?username=andresima0&show_icons=true&theme=dracula"/>
-  <img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=andresima0&layout=compact&theme=dracula"/>
+  <img height="165em" src="https://github-stats-extended.vercel.app/api?username=andresima0&show_icons=true&theme=catppuccin_mocha"/>
+  <img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=andresima0&layout=compact&theme=catppuccin_mocha"/>
 </div>
 
 #
